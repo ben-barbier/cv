@@ -1,0 +1,8 @@
+title: Benjamin B.
+description: CV
+google_analytics: UA-62161810-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
